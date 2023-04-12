@@ -1,2 +1,2 @@
 # WillPage
-WillPage with HTML, CSS and JS
+WillPage with HTML and CSS
